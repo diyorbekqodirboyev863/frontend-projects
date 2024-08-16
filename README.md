@@ -1,4 +1,4 @@
-# Projects
+# Front-End Projects
 
 ### Beginner Level
 1. **[Personal Portfolio](https://github.com/diyorbekqodirboyev863/personal-portfolio)** – Showcase your skills, projects, and resume.
