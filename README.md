@@ -4,7 +4,7 @@
 1. **[Personal Portfolio](https://github.com/diyorbekqodirboyev863/personal-portfolio)** – Showcase your skills, projects, and resume.
 2. **Landing Page** – Create a landing page for a product or service.
 3. **Calculator** – A basic calculator with addition, subtraction, multiplication, and division.
-4. **To-Do List** – A simple task management app.
+4. **[To-Do List](https://github.com/diyorbekqodirboyev863/todo-list)** – A simple task management app.
 5. **Weather App** – Display weather data using an API.
 6. **Quiz App** – A multiple-choice quiz app with score tracking.
 7. **Digital Clock** – A real-time digital clock with date display.
